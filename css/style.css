@@ -1,0 +1,55 @@
+#navHeader {
+	height: 70px;
+}
+
+.productTitle, footer{
+	text-align: center;
+}
+
+.navbar.navbar-default{
+	padding: 20px;
+  padding-right:20px;
+}
+
+.input-group-btn{
+  width:400px;
+}
+
+
+#carouselHome {
+  padding: 0%;
+  margin: 0%;
+}
+
+#bandView{
+	width: 100%; 
+	height: 300px;
+  padding-bottom: 15px;
+  padding-top: 15px
+}
+
+.imageDecade{
+	margin: 0% auto;
+	width: 1350px;
+	position: relative;
+	max-height: 450px !important;
+}
+
+.brandImage{
+	width: 100px;
+  padding:20px;
+}
+
+h1{
+	margin: 0px;
+}
+
+#footer{
+	height: 135px;
+	margin-bottom: 0px;
+}
+
+#bandImage{
+  width:1000px;
+  height:500px;
+}

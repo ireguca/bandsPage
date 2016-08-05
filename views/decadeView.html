@@ -1,0 +1,12 @@
+<br>
+<h3 class="productTitle">{{myFilter.decade}} BANDS</h3>
+<br>
+
+<div class="container">
+	<div class="row">
+		<div ng-repeat="band in bands | filter: myFilter | filter: search" class="col-lg-4 col-md-4 col-xs-6 thumb">
+			<a href="#/artist/{{band.name}}"><img class="media__image" id="bandView" src="{{band.image}}"></a>
+		</div>
+	</div>
+</div>
+<br>

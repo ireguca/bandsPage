@@ -1,0 +1,73 @@
+[
+  {
+    "id":1,"name": "The Beatles",
+    "image":"http://static.stereogum.com/uploads/2010/08/The-Beatles-PR.jpg",
+    "decade":1960,
+    "songs": ["Penny Lane","Strawberry Fields Forever","Hey Jude!"],
+    "img1": "img/beatles1.jpg",
+    "img2": "img/beatles2.jpg"
+  },
+  {
+    "id":2,
+    "name": "Black Sabbath",
+    "image":"https://upload.wikimedia.org/wikipedia/commons/4/42/Sabs.jpg",
+    "decade":1970,
+    "songs":["Paranoid","Planet Caravan","Iron Man","War Pigs"],
+    "img1": "img/black1.jpg",
+    "img2": "img/black2.jpg"
+  },
+  {
+    "id":3,
+    "name": "Metallica",
+    "image":"http://www.billboard.com/files/styles/article_main_image/public/media/Metallica-1985-group-billboard-650.jpg",
+    "decade":1980,
+    "songs":["Seek and Destroy","One","Anesthesia Pulling Teeth"],
+    "img1": "img/met1.jpg",
+    "img2": "img/met2.jpg"
+  },
+  {
+    "id":4,
+    "name": "Nirvana",
+    "image":"http://www.indiehoy.com/wp-content/uploads/2016/03/nirvana.jpg",
+    "decade":1990,
+    "songs":["Smells like teen Spirit","Lithium"],
+    "img1": "img/nirvana1.jpg",
+    "img2": "img/nirvana2.jpg"
+  },
+  {
+    "id":5,
+    "name": "Kinks",
+    "image":"http://i.dailymail.co.uk/i/pix/2014/10/24/1414109764217_wps_36_The_Kinks_Dave_Davies_Mic.jpg",
+    "decade":1960,
+    "songs":["Waterloo Sunset","Village Green Preservation Society"],
+    "img1": "img/kink1.jpg",
+    "img2": "img/kink2.jpg"
+  },
+  {
+    "id":6,
+    "name": "The Who",
+    "image":"http://assets.rollingstone.com/assets/2014/article/the-who-record-be-lucky-their-first-new-song-in-eight-years-20140925/169785/large_rect/1411659364/1401x788-154421126.jpg",
+    "decade":1960,
+    "songs":["My Generation","Baba O'Riley"],
+    "img1": "img/who1.jpg",
+    "img2": "img/who2.jpg"
+  },
+  {
+    "id":7,
+    "name": "Green Day",
+    "image":"http://qsrock.com/wp-content/uploads/2016/05/green-day.jpg",
+    "decade":1990,
+    "songs":["BasketCase","BurnOut"],
+    "img1": "img/green1.jpg",
+    "img2": "img/green2.jpg"
+  },
+  {
+    "id":8,
+    "name": "Iron Maiden",
+    "image":"http://img.thesun.co.uk/aidemitlum/archive/02738/ironmaiden_land8_2738052a.jpg",
+    "decade":1980,
+    "songs":["Fear of the Dark","The Trooper"],
+    "img1": "img/iron1.jpg",
+    "img2": "img/Iron2.jpg"
+  }
+]
